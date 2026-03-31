@@ -63,8 +63,7 @@ int main()
         //switch for choice to call different fucntion depending on choice
         switch (choice)
         {
-            cout << "Are you looking to withdraw or deposit? (1 = deposit, 2 = withdraw, 3 = quit): ";
-            cin >> choice;
+            
 
             case 1: 
             cout << "Input amount to deposit: $";
