@@ -19,7 +19,7 @@ class ShoppingItem
         item_price = price;
        }
 
-       if(item_quantity > 0)
+       if(quantity > 0)
        {
         item_quantity = quantity;
        }
